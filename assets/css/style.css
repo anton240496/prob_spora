@@ -4,19 +4,19 @@
 /* font-family: 'Gilroy_medium', sans-serif; */
 @font-face {
   font-family: "Gilroy";
-  src: url(/font/gilroy-regular.ttf);
+  src: url(../font/gilroy-regular.ttf);
 }
 @font-face {
   font-family: "Gilroy_bold";
-  src: url(/font/gilroy-bold.ttf);
+  src: url(../font/gilroy-bold.ttf);
 }
 @font-face {
   font-family: "Gilroy_semibold";
-  src: url(/font/gilroy-semibold.ttf);
+  src: url(../font/gilroy-semibold.ttf);
 }
 @font-face {
   font-family: "Gilroy_medium";
-  src: url(/font/gilroy-medium.ttf);
+  src: url(../font/gilroy-medium.ttf);
 }
 *,
 *::after,
